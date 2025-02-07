@@ -6,6 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class FolderStructureApplication {
 
+/* This is java code
+*/
 	public static void main(String[] args) {
 		System.out.println("Application exection Started");
 		SpringApplication.run(FolderStructureApplication.class, args);
